@@ -1,11 +1,15 @@
-package com.company;
+package com.company.transportType;
+
+import com.company.Transport;
 
 /**
  * Класс мотоцикл
  */
 public class Motorcycle extends Transport {
 
-    /** Поле тип мотоцикла */
+    /**
+     * Поле тип мотоцикла
+     */
     private String motoType;
 
     /**

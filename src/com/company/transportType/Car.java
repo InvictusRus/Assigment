@@ -1,11 +1,15 @@
-package com.company;
+package com.company.transportType;
+
+import com.company.Transport;
 
 /**
  * Класс автомобиль
  */
 public class Car extends Transport {
 
-    /** Поле климат-контроль */
+    /**
+     * Поле климат-контроль
+     */
     private String climate;
 
     /**

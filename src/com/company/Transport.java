@@ -1,14 +1,21 @@
 package com.company;
+
 /**
  * Класс родитель всех транспортных средств
  */
 public abstract class Transport implements Information {
 
-    /** Поле наименование */
+    /**
+     * Поле наименование
+     */
     public String name;
-    /** Поле количество колёс */
+    /**
+     * Поле количество колёс
+     */
     public int wheelsCount;
-    /** Поле максимальная скорость */
+    /**
+     * Поле максимальная скорость
+     */
     public int maxSpeed;
 
     /**

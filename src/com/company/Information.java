@@ -1,7 +1,7 @@
 package com.company;
 
 /**
- *Общий для транспорта интерфейс
+ * Общий для транспорта интерфейс
  */
 public interface Information {
 

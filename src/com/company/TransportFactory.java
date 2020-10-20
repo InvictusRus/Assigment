@@ -1,5 +1,10 @@
 package com.company;
 
+import com.company.transportType.Bus;
+import com.company.transportType.Car;
+import com.company.transportType.Motorcycle;
+import com.company.transportType.Scooter;
+
 /**
  * Класс, в котором создаются необходимые обьекты
  */

@@ -1,11 +1,15 @@
-package com.company;
+package com.company.transportType;
+
+import com.company.Transport;
 
 /**
  * Класс автобус
  */
 public class Bus extends Transport {
 
-    /** Поле вместимость */
+    /**
+     * Поле вместимость
+     */
     private int capacity;
 
     /**

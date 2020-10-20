@@ -1,11 +1,15 @@
-package com.company;
+package com.company.transportType;
+
+import com.company.Transport;
 
 /**
  * Класс самокат
  */
 public class Scooter extends Transport {
 
-    /** Поле цвет */
+    /**
+     * Поле цвет
+     */
     private String color;
 
     /**
